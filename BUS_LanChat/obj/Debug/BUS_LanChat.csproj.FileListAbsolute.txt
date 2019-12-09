@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\LanChat\BUS_LanChat\bin\Debug\BUS_LanChat.dll
+C:\Users\Admin\source\repos\LanChat\BUS_LanChat\bin\Debug\BUS_LanChat.pdb
+C:\Users\Admin\source\repos\LanChat\BUS_LanChat\bin\Debug\DAL_LanChat.dll
+C:\Users\Admin\source\repos\LanChat\BUS_LanChat\bin\Debug\DTO_LanChat.dll
+C:\Users\Admin\source\repos\LanChat\BUS_LanChat\bin\Debug\DAL_LanChat.pdb
+C:\Users\Admin\source\repos\LanChat\BUS_LanChat\bin\Debug\DTO_LanChat.pdb
+C:\Users\Admin\source\repos\LanChat\BUS_LanChat\obj\Debug\BUS_LanChat.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\LanChat\BUS_LanChat\obj\Debug\BUS_LanChat.csproj.CopyComplete
+C:\Users\Admin\source\repos\LanChat\BUS_LanChat\obj\Debug\BUS_LanChat.dll
+C:\Users\Admin\source\repos\LanChat\BUS_LanChat\obj\Debug\BUS_LanChat.pdb

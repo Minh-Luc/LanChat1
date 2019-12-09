@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\LanChat\SocketPacket\obj\Debug\SocketPacket.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\LanChat\SocketPacket\bin\Debug\SocketPacket.dll
+C:\Users\Admin\source\repos\LanChat\SocketPacket\bin\Debug\SocketPacket.pdb
+C:\Users\Admin\source\repos\LanChat\SocketPacket\obj\Debug\SocketPacket.dll
+C:\Users\Admin\source\repos\LanChat\SocketPacket\obj\Debug\SocketPacket.pdb

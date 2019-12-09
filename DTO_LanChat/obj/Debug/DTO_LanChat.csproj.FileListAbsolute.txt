@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\LanChat\DTO_LanChat\bin\Debug\DTO_LanChat.dll
+C:\Users\Admin\source\repos\LanChat\DTO_LanChat\bin\Debug\DTO_LanChat.pdb
+C:\Users\Admin\source\repos\LanChat\DTO_LanChat\obj\Debug\DTO_LanChat.dll
+C:\Users\Admin\source\repos\LanChat\DTO_LanChat\obj\Debug\DTO_LanChat.pdb
+C:\Users\Admin\source\repos\LanChat\DTO_LanChat\obj\Debug\DTO_LanChat.csprojAssemblyReference.cache

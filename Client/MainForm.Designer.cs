@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.lbl1 = new System.Windows.Forms.Label();
-            this.btnFriend = new System.Windows.Forms.Button();
-            this.btnGame = new System.Windows.Forms.Button();
             this.btnSetting = new System.Windows.Forms.Button();
+            this.btnGame = new System.Windows.Forms.Button();
+            this.btnFriend = new System.Windows.Forms.Button();
+            this.lbl1 = new System.Windows.Forms.Label();
             this.ptbMinimize = new System.Windows.Forms.PictureBox();
             this.ptbClose = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
@@ -53,32 +53,21 @@
             this.panel1.TabIndex = 0;
             this.panel1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
             // 
-            // lbl1
+            // btnSetting
             // 
-            this.lbl1.AutoSize = true;
-            this.lbl1.Font = new System.Drawing.Font("Micra", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl1.ForeColor = System.Drawing.Color.White;
-            this.lbl1.Location = new System.Drawing.Point(30, 26);
-            this.lbl1.Name = "lbl1";
-            this.lbl1.Size = new System.Drawing.Size(167, 25);
-            this.lbl1.TabIndex = 0;
-            this.lbl1.Text = "LANCHAT";
-            // 
-            // btnFriend
-            // 
-            this.btnFriend.BackColor = System.Drawing.Color.Transparent;
-            this.btnFriend.FlatAppearance.BorderSize = 0;
-            this.btnFriend.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(22)))), ((int)(((byte)(22)))));
-            this.btnFriend.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(30)))), ((int)(((byte)(30)))));
-            this.btnFriend.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnFriend.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnFriend.ForeColor = System.Drawing.Color.White;
-            this.btnFriend.Location = new System.Drawing.Point(0, 114);
-            this.btnFriend.Name = "btnFriend";
-            this.btnFriend.Size = new System.Drawing.Size(221, 47);
-            this.btnFriend.TabIndex = 1;
-            this.btnFriend.Text = "Friends";
-            this.btnFriend.UseVisualStyleBackColor = false;
+            this.btnSetting.BackColor = System.Drawing.Color.Transparent;
+            this.btnSetting.FlatAppearance.BorderSize = 0;
+            this.btnSetting.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(22)))), ((int)(((byte)(22)))));
+            this.btnSetting.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(30)))), ((int)(((byte)(30)))));
+            this.btnSetting.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSetting.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSetting.ForeColor = System.Drawing.Color.White;
+            this.btnSetting.Location = new System.Drawing.Point(0, 208);
+            this.btnSetting.Name = "btnSetting";
+            this.btnSetting.Size = new System.Drawing.Size(221, 47);
+            this.btnSetting.TabIndex = 1;
+            this.btnSetting.Text = "Settings";
+            this.btnSetting.UseVisualStyleBackColor = false;
             // 
             // btnGame
             // 
@@ -96,21 +85,32 @@
             this.btnGame.Text = "Games";
             this.btnGame.UseVisualStyleBackColor = false;
             // 
-            // btnSetting
+            // btnFriend
             // 
-            this.btnSetting.BackColor = System.Drawing.Color.Transparent;
-            this.btnSetting.FlatAppearance.BorderSize = 0;
-            this.btnSetting.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(22)))), ((int)(((byte)(22)))));
-            this.btnSetting.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(30)))), ((int)(((byte)(30)))));
-            this.btnSetting.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSetting.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSetting.ForeColor = System.Drawing.Color.White;
-            this.btnSetting.Location = new System.Drawing.Point(0, 208);
-            this.btnSetting.Name = "btnSetting";
-            this.btnSetting.Size = new System.Drawing.Size(221, 47);
-            this.btnSetting.TabIndex = 1;
-            this.btnSetting.Text = "Settings";
-            this.btnSetting.UseVisualStyleBackColor = false;
+            this.btnFriend.BackColor = System.Drawing.Color.Transparent;
+            this.btnFriend.FlatAppearance.BorderSize = 0;
+            this.btnFriend.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(118)))), ((int)(((byte)(22)))), ((int)(((byte)(22)))));
+            this.btnFriend.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(30)))), ((int)(((byte)(30)))));
+            this.btnFriend.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnFriend.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnFriend.ForeColor = System.Drawing.Color.White;
+            this.btnFriend.Location = new System.Drawing.Point(0, 114);
+            this.btnFriend.Name = "btnFriend";
+            this.btnFriend.Size = new System.Drawing.Size(221, 47);
+            this.btnFriend.TabIndex = 1;
+            this.btnFriend.Text = "Friends";
+            this.btnFriend.UseVisualStyleBackColor = false;
+            // 
+            // lbl1
+            // 
+            this.lbl1.AutoSize = true;
+            this.lbl1.Font = new System.Drawing.Font("Micra", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl1.ForeColor = System.Drawing.Color.White;
+            this.lbl1.Location = new System.Drawing.Point(30, 26);
+            this.lbl1.Name = "lbl1";
+            this.lbl1.Size = new System.Drawing.Size(167, 25);
+            this.lbl1.TabIndex = 0;
+            this.lbl1.Text = "LANCHAT";
             // 
             // ptbMinimize
             // 
@@ -151,10 +151,11 @@
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "MainForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MainForm";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             ((System.ComponentModel.ISupportInitialize)(this.ptbMinimize)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ptbClose)).EndInit();
             this.ResumeLayout(false);

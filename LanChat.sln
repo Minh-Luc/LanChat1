@@ -5,6 +5,18 @@ VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{4CD0B06F-F916-456A-869B-C9D7698D50A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{4C926DD3-8298-4D1E-ADD7-23A585B8AD2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketPacket", "SocketPacket\SocketPacket.csproj", "{E5B8FDCB-BE0F-48BB-A29C-3C5CA0AD4C19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO_LanChat", "DTO_LanChat\DTO_LanChat.csproj", "{34CCCF19-9639-4505-A061-F199AC48C92E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_LanChat", "DAL_LanChat\DAL_LanChat.csproj", "{8E05A334-3700-4524-9C96-69AB408B5A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS_LanChat", "BUS_LanChat\BUS_LanChat.csproj", "{9622930A-2F53-464A-8B04-71FCA3B0B041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networking", "Networking\Networking.csproj", "{9DFD53CC-268E-4227-9EE9-D2755AB2783B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +27,30 @@ Global
 		{4CD0B06F-F916-456A-869B-C9D7698D50A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CD0B06F-F916-456A-869B-C9D7698D50A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CD0B06F-F916-456A-869B-C9D7698D50A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C926DD3-8298-4D1E-ADD7-23A585B8AD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C926DD3-8298-4D1E-ADD7-23A585B8AD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C926DD3-8298-4D1E-ADD7-23A585B8AD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C926DD3-8298-4D1E-ADD7-23A585B8AD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B8FDCB-BE0F-48BB-A29C-3C5CA0AD4C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B8FDCB-BE0F-48BB-A29C-3C5CA0AD4C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B8FDCB-BE0F-48BB-A29C-3C5CA0AD4C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B8FDCB-BE0F-48BB-A29C-3C5CA0AD4C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34CCCF19-9639-4505-A061-F199AC48C92E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CCCF19-9639-4505-A061-F199AC48C92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34CCCF19-9639-4505-A061-F199AC48C92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CCCF19-9639-4505-A061-F199AC48C92E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E05A334-3700-4524-9C96-69AB408B5A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E05A334-3700-4524-9C96-69AB408B5A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E05A334-3700-4524-9C96-69AB408B5A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E05A334-3700-4524-9C96-69AB408B5A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9622930A-2F53-464A-8B04-71FCA3B0B041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9622930A-2F53-464A-8B04-71FCA3B0B041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9622930A-2F53-464A-8B04-71FCA3B0B041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9622930A-2F53-464A-8B04-71FCA3B0B041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DFD53CC-268E-4227-9EE9-D2755AB2783B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFD53CC-268E-4227-9EE9-D2755AB2783B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFD53CC-268E-4227-9EE9-D2755AB2783B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFD53CC-268E-4227-9EE9-D2755AB2783B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

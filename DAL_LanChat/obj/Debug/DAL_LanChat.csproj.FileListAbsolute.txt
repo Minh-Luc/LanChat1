@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\LanChat\DAL_LanChat\bin\Debug\DAL_LanChat.dll
+C:\Users\Admin\source\repos\LanChat\DAL_LanChat\bin\Debug\DAL_LanChat.pdb
+C:\Users\Admin\source\repos\LanChat\DAL_LanChat\bin\Debug\DTO_LanChat.dll
+C:\Users\Admin\source\repos\LanChat\DAL_LanChat\bin\Debug\DTO_LanChat.pdb
+C:\Users\Admin\source\repos\LanChat\DAL_LanChat\obj\Debug\DAL_LanChat.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\LanChat\DAL_LanChat\obj\Debug\DAL_LanChat.csproj.CopyComplete
+C:\Users\Admin\source\repos\LanChat\DAL_LanChat\obj\Debug\DAL_LanChat.dll
+C:\Users\Admin\source\repos\LanChat\DAL_LanChat\obj\Debug\DAL_LanChat.pdb

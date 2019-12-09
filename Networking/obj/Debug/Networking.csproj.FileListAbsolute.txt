@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\LanChat\Networking\bin\Debug\Networking.dll
+C:\Users\Admin\source\repos\LanChat\Networking\bin\Debug\Networking.pdb
+C:\Users\Admin\source\repos\LanChat\Networking\bin\Debug\SocketPacket.dll
+C:\Users\Admin\source\repos\LanChat\Networking\bin\Debug\SocketPacket.pdb
+C:\Users\Admin\source\repos\LanChat\Networking\obj\Debug\Networking.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\LanChat\Networking\obj\Debug\Networking.csproj.CopyComplete
+C:\Users\Admin\source\repos\LanChat\Networking\obj\Debug\Networking.dll
+C:\Users\Admin\source\repos\LanChat\Networking\obj\Debug\Networking.pdb
